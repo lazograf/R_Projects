@@ -6,7 +6,8 @@
   * shiny
   * ggplot2
   
-* Backtesting a trading Strategy
+  
+* Backtesting a Technical Analysis-Neural Network trading Strategy
   * quantstrat
   * blotter
   * xts
