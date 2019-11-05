@@ -18,7 +18,7 @@ This project serves a double purpose: 1) To evaluate trading strategies based on
   * ggplot2
   
   
-* Backtesting a Technical Analysis-Neural Network trading Strategy
+* Backtesting a Neural Network and Technical Analysis trading Strategy
   * quantstrat
   * blotter
   * xts
@@ -27,3 +27,4 @@ This project serves a double purpose: 1) To evaluate trading strategies based on
   * caret
   * TTR
   * reticulate
+
