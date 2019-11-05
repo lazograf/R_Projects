@@ -11,7 +11,6 @@ library(quantmod)
 if (!exists('.blotter')) .blotter <- new.env()
 .blotter <- new.env()
 .strategy <- new.env()
-library(png)
 
 
 
